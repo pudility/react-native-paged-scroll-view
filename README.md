@@ -18,7 +18,7 @@ To be clear, this is strictly just a page-computing component. I assume you'll u
 
 ```javascript
 import { ScrollView } from 'react-native'
-import AddPaging from 'react-native-paged-scroll-view'
+import AddPaging from 'react-native-paged-scroll-view/index'
 var PagedScrollView = AddPaging(ScrollView)
 
   ...
